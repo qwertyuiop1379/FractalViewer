@@ -23,6 +23,14 @@ Ctrl-C - Set center point
 
 Ctrl-Scroll - Increase/decrease max iteration count
 
+# Screenshots
+
+![One](https://github.com/qwertyuiop1379/FractalViewer/blob/main/0.png?raw=true)
+
+![Two](https://github.com/qwertyuiop1379/FractalViewer/blob/main/1.png?raw=true)
+
+![Three](https://github.com/qwertyuiop1379/FractalViewer/blob/main/2.png?raw=true)
+
 # Credits
 
 Blank OpenGL template: https://github.com/TheCherno/OpenGL
