@@ -25,6 +25,8 @@ Ctrl-Scroll - Increase/decrease max iteration count
 
 # Screenshots
 
+Messing around with the color settings in the fragment shader produces beautiful images
+
 ![One](https://github.com/qwertyuiop1379/FractalViewer/blob/main/0.png?raw=true)
 
 ![Two](https://github.com/qwertyuiop1379/FractalViewer/blob/main/1.png?raw=true)
