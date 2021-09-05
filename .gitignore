@@ -8,6 +8,3 @@
 
 # Visual Studio
 .vs/
-*.vcxproj
-*.vcxproj.filters
-*.vcxproj.user
